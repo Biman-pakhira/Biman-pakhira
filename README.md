@@ -1,5 +1,5 @@
 [![MasterHead](https://www.newus.in/static/media/full-stack-program-at-newus-Dharamsala.7835ddbfd9d23e02b60c.gif)](https://www.newus.in)
-<body background-color: #f0f0f0; >
+<body style="background-color: #f0f0f0;">
 <h1 align="center">Hi 👋, I'm Biman Pakhira</h1>
 <h3 align="center">A passionate frontend developer from Kolkata.</h3>
 <img align="right" alt="coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
