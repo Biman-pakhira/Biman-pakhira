@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **bimanpakhira2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YPKC14NwzO2uLLw8bMb-loUQ7tp1R0uh/view?usp=sharing](https://drive.google.com/file/d/1YPKC14NwzO2uLLw8bMb-loUQ7tp1R0uh/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1yPpGwisgZlJL6mFgX4bshOS-ikysH9SI/view?usp=sharing](https://drive.google.com/file/d/1yPpGwisgZlJL6mFgX4bshOS-ikysH9SI/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm funny**
 
