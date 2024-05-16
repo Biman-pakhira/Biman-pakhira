@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/biman-pakhira-015298235/" target="blank"><img align="center" src="linked-in-alt.svg" alt="https://www.linkedin.com/in/biman-pakhira-015298235/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/biman.pakhira" target="blank"><img align="center" src="facebook.svg" alt="https://www.facebook.com/biman.pakhira" height="30" width="40" /></a>
+<a href="https://www.facebook.com/biman.pakhira" target="blank"><img align="center" src="facebook.svg" alt="https://www.facebook.com/biman.pakhira" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_.the.overthinker._/" target="blank"><img align="center" src="instagram.svg" alt="https://www.instagram.com/_.the.overthinker._/" height="30" width="40" /></a>
 <a href="https://www.behance.net/bimanpakhira" target="blank"><img align="center" src="behance.svg" alt="https://www.behance.net/bimanpakhira" height="30" width="40" /></a>
 </p>
