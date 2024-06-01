@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [eCommerce-Website-Project](https://github.com/Biman-pakhira/eCommerce-Website-Project)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://biman-pakhira.github.io/portfolio/](https://biman-pakhira.github.io/portfolio/)
 
