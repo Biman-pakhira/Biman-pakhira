@@ -32,5 +32,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=biman-pakhira&show_icons=true&locale=en&layout=compact" alt="biman-pakhira" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biman-pakhira&" alt="biman-pakhira" /></p>
 </body>
