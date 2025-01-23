@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://biman-pakhira.github.io/portfolio/](https://biman-pakhira.github.io/portfolio/)
 
-- 💬 Ask me about **C, Java, HTML, CSS, JavaScript, React**
+- 💬 Ask me about **C, Java, Python, SQL, HTML, CSS, JavaScript, React**
 
 - 📫 How to reach me **bimanpakhira2@gmail.com**
 
