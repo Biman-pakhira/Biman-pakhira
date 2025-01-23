@@ -1,7 +1,7 @@
 ![MasterHead](CoverImage.gif)
 <body style="background-color: #f0f0f0;">
 <h1 align="center">Hi 👋, I'm Biman Pakhira</h1>
-<h3 align="center">A passionate frontend developer from Kolkata.</h3>
+<h3 align="center">A passionate Software Developer from Kolkata.</h3>
 <img align="right" alt="coding" width="400" src="SideImg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biman-pakhira&label=Profile%20views&color=0e75b6&style=flat" alt="biman-pakhira" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **bimanpakhira2@gmail.com**
 
-- 📄 Know about my experiences from [My Resume](https://drive.google.com/file/d/1w40jtEKbwmhzynDj6jUe5W9fDGrgHa4l/view?usp=sharing)
+- 📄 Know about my experiences from [My Resume](https://drive.google.com/file/d/16sugi1bgAfDx0Fj3x2LEtLJFj_OnwLCW/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm funny**
 
