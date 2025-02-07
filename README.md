@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://biman-pakhira.github.io/portfolio/](https://biman-pakhira.github.io/portfolio/)
+- 👨‍💻 Here is my Portfolio [https://biman-pakhira.github.io/portfolio/](https://biman-pakhira.github.io/portfolio/)
 
 - 💬 Ask me about **C, Java, Python, SQL, HTML, CSS, JavaScript, React**
 
