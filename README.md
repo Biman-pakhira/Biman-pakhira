@@ -11,7 +11,7 @@
 
 - 👨‍💻 Here is my Portfolio [https://biman-pakhira.github.io/portfolio/](https://biman-pakhira.github.io/portfolio/)
 
-- 💬 Ask me about **C, Java, Python, SQL, HTML, CSS, JavaScript, React**
+- 💬 Ask me about **Java, Python, SQL, React, NodeJs, AWS, Jupyter Notebook, Power BI, Selenium**
 
 - 📫 How to reach me **bimanpakhira2@gmail.com**
 
